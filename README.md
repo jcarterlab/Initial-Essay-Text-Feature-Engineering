@@ -1,4 +1,4 @@
-# Initial-Essay-Text-Feature-Engineering
+# NLP initial feature engineering
 
 This notebook creates some initial features from the dataset of a Kaggle essay scoring competition and asseses their efficacy with a random forest model using the quadratic weighted cohen kappa score. A number of useful starting features are identified, including:
 
@@ -14,4 +14,4 @@ This notebook creates some initial features from the dataset of a Kaggle essay s
 
 The Kaggle competition score for this notebook is 0.73
 
-The notebook can be found [here.](initial_essay_text_feature_engineering.ipynb)
+The notebook can be found [here.](nlp_initial_feature_engineering.ipynb)
